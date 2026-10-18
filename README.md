@@ -1,15 +1,28 @@
 <div align="center">
 
-# Hi, I'm Dilip 👋
+[![Welcome banner](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:00A4EF,100:5C2D91&height=180&section=header&text=Dilip%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20bright%20ideas%20in%20the%20cloud&descAlignY=60&descSize=16)](https://github.com/dilipkumar56)
 
-### Cloud Architect · AI Technology Enthusiast
+### ☁️ Cloud Architect · AI Technology Enthusiast
 
-I enjoy exploring how thoughtful cloud architecture and emerging AI technologies can
-come together to solve meaningful problems.
+> **Turning cloud complexity into clear skies—and bold ideas into useful products.**
 
-[Explore my repositories](https://github.com/dilipkumar56?tab=repositories) ·
-[See what I've starred](https://github.com/dilipkumar56?tab=stars) ·
-[View my activity](https://github.com/dilipkumar56?tab=overview)
+I enjoy bringing reliable cloud architecture and emerging AI together to solve
+meaningful problems. Take a look around, find something interesting, and let's build
+what's next.
+
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Explore repositories](https://img.shields.io/badge/Explore-My_Projects-5C2D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilipkumar56?tab=repositories)
+[![Follow](https://img.shields.io/badge/Follow-dilipkumar56-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilipkumar56)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure cloud logo" width="96" />
+
+*Welcome to my corner of the cloud — explore, learn, and let's make something great.*
 
 </div>
 
@@ -52,19 +65,10 @@ what I'm working on.
 
 </div>
 
-## GitHub at a glance
-
-<div align="center">
-
-[![Dilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilipkumar56&show_icons=true&hide_border=true&theme=transparent)](https://github.com/dilipkumar56)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipkumar56&layout=compact&hide_border=true&theme=transparent)](https://github.com/dilipkumar56?tab=repositories)
-
-</div>
-
 ---
 
 <div align="center">
 
-*Thanks for stopping by — explore a project, leave a star, or follow along.*
+*Thanks for stopping by — pick a project, leave a star, or follow along. ✨*
 
 </div>
